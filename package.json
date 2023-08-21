@@ -2,7 +2,7 @@
   "name": "bocajuniorsapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xgustiolmsx.github.io/bocajuniorsapp",
+  "homepage": "https://xgustiolmsx.github.io/bocajuniorsapp/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
