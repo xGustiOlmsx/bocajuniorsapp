@@ -1,0 +1,29 @@
+.container {
+    background-color: #E5E5E5;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    padding: 10px 5em;
+}
+.container div {
+    background-color: #ffff;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 10px;
+}
+.container div img {
+    max-width: 300px;
+}
+.container div h2, .container div p {
+    text-align: start;
+    font-size:18px;
+    line-height: 22px;
+    text-align: left;
+    letter-spacing: normal;
+    padding:1%;
+    padding: 10px;
+}
+.container div p{
+    color: #696969;
+}

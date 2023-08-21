@@ -1,0 +1,22 @@
+.results {
+    background-color: #003492;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    min-width: 50px;
+    cursor: pointer;
+    font: inherit;
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: scroll;
+    overflow-y: hidden;
+    flex-direction: row-reverse;
+}
+.results div{
+    flex: 1 0 auto;
+    margin: 0 5rem;
+}
+.results img {
+    width: 3rem;
+}

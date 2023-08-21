@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bocajuniorsapp/build/static/css/main.036056d8.css",
+    "main.js": "/bocajuniorsapp/build/static/js/main.ce3db84d.js",
+    "static/media/cabjLogo.svg": "/bocajuniorsapp/build/static/media/cabjLogo.ee5e60b0828ca2438d7eb95d5bcfad7e.svg",
+    "index.html": "/bocajuniorsapp/build/index.html",
+    "main.036056d8.css.map": "/bocajuniorsapp/build/static/css/main.036056d8.css.map",
+    "main.ce3db84d.js.map": "/bocajuniorsapp/build/static/js/main.ce3db84d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036056d8.css",
+    "static/js/main.ce3db84d.js"
+  ]
+}

@@ -1,0 +1,33 @@
+.navResultados {
+    background-color: #02236D;
+}
+.navResultados nav ul {
+    display: flex;
+    flex-direction: row!important;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0%;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    cursor: pointer;
+    width: max-content;
+    padding:.8rem ;
+    border-radius: 7px;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 24px;
+    transition: all ease 5s;
+}

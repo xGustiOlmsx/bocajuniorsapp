@@ -1,0 +1,66 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #003391;
+    flex-wrap: wrap;
+    min-width: 352px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgLogo {
+    height: 54px;
+    margin: 18px 0;
+}
+
+.txtLogo {
+    white-space: nowrap;
+    box-sizing: border-box;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #fff;
+    padding: 0 0 0 16px;
+    margin: 0 28px 4px 0;
+    font-size: 18px;
+    line-height: 24px;
+}
+.txtLogo p {
+    font-size: 16px;
+}
+.txtLogo span {
+    white-space: nowrap;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #fff;
+    line-height: 24px;
+    box-sizing: border-box;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.fanSite {
+    border-left: #fff solid 1px;
+    display: flex;
+    padding-left: 2rem;
+    align-items: center;
+}
+@media (max-width: 620px) {
+    .fanSite {
+        border-left: none;
+        padding-left: none;
+        background-color: #1C1E35;
+        width: 618px;
+        justify-content: space-evenly;
+    }
+}
+
+.txtFanSite {
+    margin: 2px;
+    color: #fff;
+}
